@@ -1,0 +1,6 @@
+C:\Users\Doctor Fail\Documents\Programming Projects\C#\Status Effect System Test\bin\Debug\ConsoleApplication.exe
+C:\Users\Doctor Fail\Documents\Programming Projects\C#\Status Effect System Test\bin\Debug\ConsoleApplication.pdb
+C:\Users\Doctor Fail\Documents\Programming Projects\C#\Status Effect System Test\obj\x86\Debug\Status Effect System Test.csprojAssemblyReference.cache
+C:\Users\Doctor Fail\Documents\Programming Projects\C#\Status Effect System Test\obj\x86\Debug\Status Effect System Test.csproj.CoreCompileInputs.cache
+C:\Users\Doctor Fail\Documents\Programming Projects\C#\Status Effect System Test\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Doctor Fail\Documents\Programming Projects\C#\Status Effect System Test\obj\x86\Debug\ConsoleApplication.pdb
